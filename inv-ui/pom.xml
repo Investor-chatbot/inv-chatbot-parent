@@ -1,0 +1,19 @@
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <parent>
+        <artifactId>parent</artifactId>
+        <groupId>com.inv.chatbot</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>inv-ui</artifactId>
+    <packaging>war</packaging>
+    <name>inv-ui Maven Webapp</name>
+    <url>http://maven.apache.org</url>
+    <dependencies>
+
+    </dependencies>
+    <build>
+        <finalName>inv-ui</finalName>
+    </build>
+</project>
